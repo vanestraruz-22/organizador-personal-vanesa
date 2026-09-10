@@ -28,3 +28,7 @@ pip install -r requirements.txt
 ## Autor
 
 Vanesa Fernanda Estrada Cruz
+
+## Colaboración
+
+Sofia Quesada Moreno
